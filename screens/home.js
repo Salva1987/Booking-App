@@ -29,7 +29,7 @@ export default function Home({ navigation }) {
             }
           }}
         />
-        {show && <Text style={styles.title}>Agenda Actual</Text>}
+        {show && <Text style={styles.title}>Lorem Ipsum</Text>}
         <CustomButton
           titleText="Agendar espacio"
           submitHandler={pressHandler}
